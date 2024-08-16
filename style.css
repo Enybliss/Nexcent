@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    overflow: hidden;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100vw;
+    padding: 10px;
+    
+}
+
+a{
+    margin: 20px;
+    height: 24px;
+}
+
+img{
+    margin-left: 40px;
+}
+
+.button{
+display: flex;
+align-items: center;
+gap: 10px;
+}
+button{
+    margin-right: 100px ;
+    background-color: #4CAF4F;
+    width: 91px;
+    height: 40px;
+    border-radius: 6px;
+    border: none;
+
+
+}
